@@ -1,3 +1,11 @@
+$(function(){
+    $("#div_news").load("./subpages/news.html");
+    $("#div_members").load("./subpages/members.html");
+    $("#div_range").load("./subpages/range.html");
+    $("#div_conf").load("./subpages/conferences.html");
+    $("#div_contact").load("./subpages/contact.html");
+});
+
 $( document ).ready(function() {
     $("#div_news").show();
     $("#div_members").hide();
