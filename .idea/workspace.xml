@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="882a980f-3ca2-45bc-97e1-abd74591b60e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/Program_posiedzenia_27_02_2017.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/Sprawozdanie_SMKBM_06_12_2016.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subpages/conferences.html" afterPath="$PROJECT_DIR$/subpages/conferences.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subpages/news.html" afterPath="$PROJECT_DIR$/subpages/news.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/subpages/range.html" afterPath="$PROJECT_DIR$/subpages/range.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,7 +21,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="825">
@@ -45,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conferences.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="conferences.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/subpages/conferences.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="175">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -121,8 +117,8 @@
         <option value="$PROJECT_DIR$/js/custom_scripts.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/subpages/range.html" />
-        <option value="$PROJECT_DIR$/subpages/conferences.html" />
         <option value="$PROJECT_DIR$/subpages/news.html" />
+        <option value="$PROJECT_DIR$/subpages/conferences.html" />
       </list>
     </option>
   </component>
@@ -668,7 +664,7 @@
       <workItem from="1483455177404" duration="360000" />
       <workItem from="1483455559082" duration="239000" />
       <workItem from="1487101563288" duration="25000" />
-      <workItem from="1487101752579" duration="1878000" />
+      <workItem from="1487101752579" duration="2306000" />
     </task>
     <task id="LOCAL-00001" summary="init working commit">
       <created>1483184832903</created>
@@ -705,11 +701,18 @@
       <option name="project" value="LOCAL" />
       <updated>1483455520115</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Dodane pdf, konferencja i drobne poprawki">
+      <created>1487103660638</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1487103660638</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6729000" />
+    <option name="totallyTimeSpent" value="7157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="2182" height="1402" extended-state="6" />
@@ -757,7 +760,8 @@
     <MESSAGE value="text justify" />
     <MESSAGE value="małe poprawki w tekstach" />
     <MESSAGE value="małe poprawki w tekstach 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="małe poprawki w tekstach 2" />
+    <MESSAGE value="Dodane pdf, konferencja i drobne poprawki" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dodane pdf, konferencja i drobne poprawki" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -911,14 +915,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/custom_scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/subpages/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -935,14 +931,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/subpages/conferences.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/subpages/news.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -951,10 +939,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom_scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
           <caret line="39" column="36" lean-forward="false" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subpages/conferences.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding />
         </state>
       </provider>
